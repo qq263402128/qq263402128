@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-:x:
+- :x:
+- :snake:
 
 <!---
 qq263402128/qq263402128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
