@@ -6,6 +6,7 @@
 - :x:
 - :snake:
 - :recycle:
+- :arrow_up:
 
 <!---
 qq263402128/qq263402128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
