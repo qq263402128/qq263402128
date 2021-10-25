@@ -14,7 +14,7 @@ qq263402128/qq263402128 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-`sql
+```sql
 SELECT
 	a.id,
 	a.`name`,
@@ -24,4 +24,4 @@ FROM
 	game_type b 
 WHERE
 	a.tid = b.id
-`
+```
