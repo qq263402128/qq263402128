@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 SELECT
 	a.id,
 	a.`name`,
-	( SELECT GROUP_CONCAT( `name` ) FROM game_type WHERE FIND_IN_SET( id, a.tid ) > 0 ) AS types 
+	( SELECT GROUP_CONCAT( `name` SEPARATOR '|' ) FROM game_type WHERE FIND_IN_SET( id, a.tid ) > 0 ) AS types 
 FROM
 	game a,
 	game_type b 
