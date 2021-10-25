@@ -14,6 +14,7 @@ qq263402128/qq263402128 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+## 一个字段中存储多个类型ID，一次性查询出对应ID的名称
 ```sql
 SELECT
 	a.id,
